@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SantiaGhou/count.svg?"  />
+  <img src="[https://profile-counter.glitch.me/SantiaGhou/count.svg?](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-gifs&psig=AOvVaw1H_4vsHwWPrgG8sxhU136R&ust=1715393983567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjX1tmCgoYDFQAAAAAdAAAAABAE)"  />
 </div>
 
 ###
@@ -74,14 +74,14 @@
 
 ###
 
-<h4 align="center">🔭 Estou Trabalhando em um projeto de marketplace<br><br>🌱 Eu Estou Estudando... Docker, Supabase, AWS<br><br>⚡ Fun fact a cena icônica do filme "O Poderoso Chefão", em que um cavalo decapitado aparece na cama, foi feita usando a cabeça de um cavalo real"</h4>
+<h4 align="center">🔭 Estou Trabalhando em um projeto de marketplace<br><br>🌱 Eu Estou Estudando... Docker, Supabase, AWS<br><br>⚡ Fun fact : A cena icônica do filme "O Poderoso Chefão", em que um cavalo decapitado aparece na cama, foi feita usando a cabeça de um cavalo real"</h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/8pkufn"  />
+  <img height="200" src="[https://images.app.goo.gl/k8wpY5ZJd1mBZahc9](https://media.tenor.com/hXu0243GeQgAAAAj/shigure-ui-dance.gif)"  />
 </div>
 
 ###
