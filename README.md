@@ -33,23 +33,18 @@
   <a href="https://www.linkedin.com/in/filipe-santiago-0736932b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/EuAdoroRetas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+ 
   <a href="https://discord.gg/ghouuu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/l.santiaghou/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/ghouuu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
+
 </div>
 
 ###
 
-<h4 align="center">🔭 Estou Trabalhando em um projeto de marketplace<br><br>🌱 Eu Estou Estudando... Docker, Supabase, AWS<br><br>⚡ Fun fact : A cena icônica do filme "O Poderoso Chefão", em que um cavalo decapitado aparece na cama, foi feita usando a cabeça de um cavalo real"</h4>
 
 ###
 
