@@ -3,7 +3,7 @@
 #### A Full-Stack Developer by day ☼ and Social Media Manager by night ☾
 
 Full-Stack Developer at [Hummano](https://hummano.com.br);  
-Social Media Manager for [@doutorbarauna](https://www.instagram.com/doutorbarauna) and [@celesteivo](https://www.instagram.com/celesteivo);
+Social Media Manager for @Humman.o;
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.java`, `.C`
 - 🌍 I’m most active in the **Software Development** and **Social Media Management** fields
