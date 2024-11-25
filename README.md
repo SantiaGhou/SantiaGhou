@@ -11,9 +11,7 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/SantiaGhou/SantiaGhou/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SantiaGhou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
