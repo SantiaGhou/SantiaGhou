@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and Social Media Manager by night ☾
 
-Full-Stack Developer at [Hummano](https://hummano.com.br);  
+Full-Stack Developer 
 Social Media Manager for @Humman.o;
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.java`, `.C`
