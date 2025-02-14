@@ -1,20 +1,24 @@
-### Hey there! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-#### A Full-Stack Developer by day ☼ and Social Media Manager by night ☾
+###
 
-Full-Stack Developer 
-Social Media Manager for @Humman.o;
+<h2 align="left">About me</h2>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.java`, `.C`
-- 🌍 I’m most active in the **Software Development** and **Social Media Management** fields
-- 💻 I'm currently studying fullstack web development at rocketseat and estacio
-- 🧑‍💻 Currently focused on **web development**, **programming languages**, and **growth hacking**
-- 🎓 Education:  
-  - CS50 from Harvard University  
-  - Full-Stack Web Development by [Rocketseat](https://www.rocketseat.com.br)  
-  - Currently pursuing a **Computer Science degree** at Estácio University
-- 💬 Ping me about **full-stack development**, **Laravel**, **web technologies**, **design systems**, **branding**, or **social media strategies**
+###
 
----
+<p align="left">My name is Filipe Santiaghouand I'm a Developer, from Brasil</p>
 
-I’m always excited to connect with like-minded devs and tech enthusiasts!
+###
+
+<p align="left">✨ Creating bugs since I first touched a keyboard (but getting better at fixing them) 😆<br>📚 I'm currently learning advanced web dev, AI, and how to make bank with digital marketing 🚀<br>🎯 Goals: Build a business, become a top-tier programmer, and give my family the best life possible 💰🏆<br>🎲 Fun fact: I train every day, barely eat rice & beans, and in my region, we call the devil "Manel" 😂🔥<br><br>💡 Always building, learning, and leveling up!</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiaGhou&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiaGhou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SantiaGhou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiaGhou&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
