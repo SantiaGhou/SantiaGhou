@@ -3,7 +3,7 @@
 ###
 
 <h4 align="left">I'm a Developer from Brazil.<br><br>I'm a Developer working with Node, Python, React, and Java. Focused on web development and expanding my knowledge in AI and desktop apps.</h4>
-<h5>I removed all my old projects so I could start from scratch, but applying good practices and standardizing my commits<h5/>
+<h5>PS: I removed all my old projects so I could start from scratch, but applying good practices and standardizing my commits<h5/>
 ###
 
 <div align="left">
