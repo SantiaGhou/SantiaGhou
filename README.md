@@ -19,8 +19,4 @@ I believe technology only makes sense when it improves the lives of real people.
 
 ---
 
-<div align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=filipecacule&theme=dark&hide_border=true&background=000000&ring=4B0082&fire=4B0082&currStreakLabel=4B0082)](https://git.io/streak-stats)
-
-</div>
+<img src="https://streak-stats.demolab.com?user=SantiaGhou&theme=dark&hide_border=true&background=000000&ring=4B0082&fire=4B0082&currStreakLabel=4B0082" alt="GitHub Streak" />
